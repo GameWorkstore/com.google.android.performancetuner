@@ -1,25 +1,15 @@
 {
-  "name": "com.google.external-dependency-manager",
-  "version": "1.2.165",
-  "displayName": "External Dependency Manager for Unity",
-  "keywords": [
-    "Google",
-    "Android",
-    "Gradle",
-    "Cocoapods",
-    "Dependency",
-    "Unity Package Manager",
-    "Unity",
-    "vh-name:play-services-resolver",
-    "vh-name:unity-jar-resolver",
-    "vh-name:external-dependency-manager",
-    "vh-name:External Dependency Manager for Unity"
-  ],
+  "name": "com.google.android.performancetuner",
+  "displayName": "Android Performance Tuner",
+  "version": "1.1.2",
+  "unity": "2019.3",
+  "description": "Android Performance Tuner is a library reporting frame rendering times of your game across different devices and game stages. This plugin helps to integrate the library into your Unity project.",
   "author": {
-    "name": "Google LLC",
-    "url": "https://github.com/googlesamples/unity-jar-resolver"
+    "name": "Google LLC"
   },
-  "description": "External Dependency Manager for Unity (EDM4U) can be used by any Unity plugin that requires Android specific libraries (e.g. AARs), iOS CocoaPods, version management of transitive dependencies, and/or management of Unity Package Manager registries.",
-  "unity": "2017.1",
-  "dependencies": {}
+  "keywords": [
+    "android",
+    "google",
+    "performance"
+  ]
 }
